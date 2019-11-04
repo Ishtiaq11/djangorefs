@@ -5,3 +5,6 @@ Some helpful references in django development
   - creating database in postgresql for django application
   - django settings for postgres database
   - using database url in django settings
+
+- [Standalone Django ORM application](https://github.com/Ishtiaq11/mydjango/blob/master/standalone-django-orm.md)
+  - guide for creating standalone django orm in application

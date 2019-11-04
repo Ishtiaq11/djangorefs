@@ -34,12 +34,13 @@ pipenv install dj-database-url
 ```bash
 SECRET_KEY = "replace_with_generated_key"
 ```
-- ### Create database in postgresql [Create Postgresql Database for django application](https://github.com/Ishtiaq11/mydjango/blob/master/djnago-postgres.md)
+- ### Create database in postgresql [help link](https://github.com/Ishtiaq11/mydjango/blob/master/djnago-postgres.md)
 
-### Modify Database Configuration in `settings.py`
+- ### Modify Database Configuration in `settings.py`
 ```bash
 # Comment out other database settings
 import dj-database-url
+
 DATABASES = {}
 DATABASES['default'] = dj_database_url.config(
     default="postgres://dbuser:password@host:port/dbname", 
