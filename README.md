@@ -1,10 +1,6 @@
-# mydjango
-Some helpful references in django development
+djangorefs
+==========
 
-- [Use Postgresql with django application](https://github.com/Ishtiaq11/mydjango/blob/master/djnago-postgres.md)
-  - creating database in postgresql for django application
-  - django settings for postgres database
-  - using database url in django settings
+- [Create Postgresql database for django application](https://github.com/Ishtiaq11/mydjango/blob/master/djnago-postgres.md)
 
-- [Standalone Django ORM application](https://github.com/Ishtiaq11/mydjango/blob/master/standalone-django-orm.md)
-  - guide for creating standalone django orm in application
+- [Standalone Django ORM](https://github.com/Ishtiaq11/mydjango/blob/master/standalone-django-orm.md)
